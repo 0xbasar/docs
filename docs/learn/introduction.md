@@ -25,9 +25,9 @@ By integrating different LSPs in unique ways, LUKSO solves fundamental problems 
 - [📢 Senders and receivers are notified upon transfers (e.g. tokens transfers)](../standards/tokens/LSP7-Digital-Asset.md): users can see which assets they own within their profile. They can even block transfers of certain assets by creating a list of allowed assets they want to accept.
 - [📝 Updatable and flexible metadata](../standards/generic-standards/lsp2-json-schema.md): metadata can be updated, enabling dynamic NFTs that can change certain properties over time, while other properties remain immutable.
 - [Extend your account over time](../standards/generic-standards/lsp17-contract-extension.md): users can extend their account over time seamlessly, with no need to redeploy the associated smart contract.
-- [⛽️ Gassless experience](./concepts.md#transaction-relay-service): UPs support Transaction Relay Services that cover the gas for users's transactions.
+- [⛽️ Gasless experience](./concepts.md#transaction-relay-service): UPs support Transaction Relay Services that cover the gas for users's transactions.
 
-:::tip Users get a gassless experience
+:::tip Users get a gasless experience
 
 Currently, there is a relay service that subsidizes users' transactions maintained by the LUKSO team. In the future, various relay services will be offered by multiple third parties, evolving into a competitive relay ecosystem with various business models.
 
